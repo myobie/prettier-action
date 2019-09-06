@@ -1,0 +1,6 @@
+name: Prettier Action
+description: Run prettier on push
+author: @myobie and @josh
+runs:
+  using: node12
+  main: index.js
